@@ -1,0 +1,81 @@
+{
+  "identifier" : "08A4B59B",
+  "nonRenewingSubscriptions" : [
+
+  ],
+  "products" : [
+
+  ],
+  "settings" : {
+
+  },
+  "subscriptionGroups" : [
+    {
+      "id" : "FB18180A",
+      "localizations" : [
+
+      ],
+      "name" : "AppWeather Pro",
+      "subscriptions" : [
+        {
+          "adHocOffers" : [
+
+          ],
+          "codeOffers" : [
+
+          ],
+          "displayPrice" : "4.99",
+          "familyShareable" : false,
+          "groupNumber" : 1,
+          "internalID" : "319DF003",
+          "introductoryOffer" : null,
+          "localizations" : [
+            {
+              "description" : "Unlock daily forecasts and more",
+              "displayName" : "Pro Motnthly",
+              "locale" : "en_US"
+            }
+          ],
+          "productID" : "com.demoappweather.monthly",
+          "recurringSubscriptionPeriod" : "P1M",
+          "referenceName" : "Pro Monthly",
+          "subscriptionGroupID" : "FB18180A",
+          "type" : "RecurringSubscription"
+        },
+        {
+          "adHocOffers" : [
+
+          ],
+          "codeOffers" : [
+
+          ],
+          "displayPrice" : "29.99",
+          "familyShareable" : false,
+          "groupNumber" : 1,
+          "internalID" : "F30AEB10",
+          "introductoryOffer" : null,
+          "localizations" : [
+            {
+              "description" : "Unlock daily forecasts and more",
+              "displayName" : "Pro Yearly",
+              "locale" : "en_US"
+            }
+          ],
+          "productID" : "com.demoappweather.yearly",
+          "recurringSubscriptionPeriod" : "P1Y",
+          "referenceName" : "Pro Annual",
+          "subscriptionGroupID" : "FB18180A",
+          "type" : "RecurringSubscription"
+        }
+      ]
+    }
+  ],
+  "subscriptionOffersKeyPair" : {
+    "id" : "005B2D56",
+    "privateKey" : "MIGTAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBHkwdwIBAQQg3+uXJAIM85tw2im5bdnhf9XIzDBcP/cQHK7Hw1QAEsKgCgYIKoZIzj0DAQehRANCAARaKtbKRSHviARlpBW2B9PdibJbsGWGL44KPe4wlw+k0QKLqQuxwT8Sth8O0aIE+m4fBHQpsHls5Mvb0afvHeWS"
+  },
+  "version" : {
+    "major" : 2,
+    "minor" : 0
+  }
+}
